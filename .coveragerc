@@ -1,0 +1,3 @@
+[run]
+source = pyranalytocs
+omit = pyranalytocs/test*

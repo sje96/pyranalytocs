@@ -1,0 +1,4 @@
+{
+  "pyranalytocs/tests.py::FunctionalTests::test_root": true, 
+  "pyranalytocs/tests.py::ViewTests::test_my_view": true
+}
