@@ -11,6 +11,3 @@ def get_random_nickname():
 def my_view(request):
     random_nickname=get_random_nickname()
     return {'project': 'pyranalytocs', 'nickname': random_nickname}
-
-
-
